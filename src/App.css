@@ -1,0 +1,16 @@
+h2, h3 {
+    color: #18BC9C;
+    font-family: 'Kablammo', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Estilo para el fondo */
+body {
+    background-color: whitesmoke; /* Color de fondo */
+    background-image: url('https://i0.wp.com/puppis.blog/wp-content/uploads/2020/09/mi-primera-mascota.jpg'); /* URL de la imagen de fondo */
+    background-repeat: repeat; /* No repetir la imagen */
+    background-size: cover; /* Ajustar la imagen al tamaño del contenedor */
+    background-position: bottom 0px; /* Posición centrada de la imagen */
+  }
+  
+  
